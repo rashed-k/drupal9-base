@@ -1,5 +1,4 @@
-# Base template for Drupal 9 projects hosted on Lagoonsdf
-.......PR....................................sdfsdfsdfsdfsd...sdfsdfsdf...dfdfdf...dfdfdf
+# Base template for Drupal 9 projects hosted on Lagoon
 This template includes everything necessary to run on [Lagoon](https://www.github.com/uselagoon/lagoon) (in both the local development environments or on hosted Lagoon clusters.)
 
 This project template should provide a kickstart for dmanaging your site
